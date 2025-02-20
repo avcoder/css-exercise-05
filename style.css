@@ -1,0 +1,16 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+
+section > div {
+    width: 500px;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
